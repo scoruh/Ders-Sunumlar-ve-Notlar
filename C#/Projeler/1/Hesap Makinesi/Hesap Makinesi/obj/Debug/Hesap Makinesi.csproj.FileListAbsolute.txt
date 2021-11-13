@@ -1,0 +1,30 @@
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.HesapMakinesi.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.HesapMakinesi.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.HesapMakinesi.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\1\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb

@@ -1,0 +1,21 @@
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.exe.config
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.exe
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csprojAssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal_ucgeni.Form1.resources
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal_ucgeni.Properties.Resources.resources
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.GenerateResource.cache
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.exe
+C:\Users\mhls1\OneDrive\Masaüstü\pascal-ucgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.exe.config
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\bin\Debug\pascal-ucgeni.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.AssemblyReference.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal_ucgeni.Form1.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal_ucgeni.Properties.Resources.resources
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.GenerateResource.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.CoreCompileInputs.cache
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.exe
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.pdb
+C:\Users\mhls1\OneDrive\Masaüstü\Dersler\C#\Projeler\2\Pascal Üçgeni\pascal-ucgeni\obj\Debug\pascal-ucgeni.csproj.SuggestedBindingRedirects.cache
